@@ -1,0 +1,25 @@
+.main-component {
+  position: absolute;
+  margin-left: 270px;
+  margin-top: 20px;
+  background-color: rgb(252, 252, 252);
+  height: 75vh;
+  width: 63vw;
+  border-radius: 10px;
+}
+
+.text-main-componentone {
+  color: rgb(129, 6, 186);
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.flex-virtual {
+  display: flex;
+  justify-content: space-between;
+}
+
+.margin-iconone {
+  margin-right: 20px;
+  margin-top: 20px;
+}

@@ -1,0 +1,20 @@
+.Right-content {
+  margin-left: 1150px;
+  background-color: rgb(255, 252, 252);
+  height: 100vh;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img-set {
+  width: 30px;
+  height: 30px;
+  padding-left: 15px;
+  padding-top: 20px;
+}
+
+.padding-ring {
+  padding-top: 20px;
+  padding-right: 140px;
+}

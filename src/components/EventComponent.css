@@ -1,0 +1,47 @@
+.event {
+  display: flex;
+  font-weight: 600;
+  font-size: 12px;
+  color: rgb(129, 138, 132);
+  margin-left: 110px;
+  margin-top: 20px;
+}
+
+.event1 {
+  display: flex;
+  font-weight: 600;
+  font-size: 12px;
+  color: rgb(129, 138, 132);
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.event2 {
+  display: flex;
+  font-weight: 700;
+  font-size: 12px;
+  color: rgb(168, 21, 176);
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.line {
+  margin-left: 10px;
+}
+
+.line2 {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.event-main {
+  display: flex;
+}
+
+.background {
+  background-color: rgb(252, 252, 252);
+  margin-top: 10px;
+  margin-left: 18px;
+  height: 30px;
+  width: 120px;
+}

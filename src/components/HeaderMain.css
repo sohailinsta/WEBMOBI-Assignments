@@ -1,0 +1,50 @@
+.Header {
+  background-color: rgb(252, 252, 252);
+  width: 92vw;
+  margin-left: 90px;
+  height: 63px;
+  border-radius: 4px;
+}
+
+.icon-two {
+  display: flex;
+}
+
+.icon-text {
+  padding-top: 20px;
+}
+
+.text {
+  font-size: large;
+  font-weight: 600;
+  padding-top: 2px;
+  padding-left: 10px;
+  color: rgb(10, 0, 0);
+}
+
+.size-icon {
+  padding-left: 8px;
+}
+
+.space-preview {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.preview-box {
+  background-color: rgb(252, 252, 252);
+  margin-top: 15px;
+  margin-right: 8px;
+  height: 30px;
+  width: 150px;
+  border-radius: 4px;
+  border: 1px solid gray;
+}
+
+.text-preview {
+  display: flex;
+  align-items: center;
+  padding-top: 4px;
+  padding-left: 8px;
+}

@@ -1,0 +1,62 @@
+.main-content {
+  position: absolute;
+  background-color: rgb(252, 252, 252);
+  width: 170px;
+  height: 70vh;
+  margin-top: 20px;
+  margin-left: 90px;
+  border-radius: 10px;
+}
+
+.content-text {
+  padding-top: 20px;
+  padding-right: 20px;
+  color: rgb(194, 194, 194);
+  font-weight: 500;
+}
+
+.vertical-line {
+  color: rgb(193, 186, 197);
+}
+
+.text-contentone {
+  padding-right: 110px;
+  padding-top: 14px;
+  color: rgb(83, 81, 81);
+}
+
+.text-contenttwo {
+  padding-right: 85px;
+  padding-top: 14px;
+  color: rgb(83, 81, 81);
+}
+
+.text-contentthree {
+  padding-right: 95px;
+  padding-top: 14px;
+  color: rgb(83, 81, 81);
+}
+
+.text-contentoneunique {
+  padding-right: 3px;
+  padding-top: 5px;
+  color: rgb(129, 6, 186);
+}
+
+.box-virtual {
+  background-color: rgb(194, 194, 194);
+  margin-top: 8px;
+  height: 28px;
+}
+
+.text-contentfour {
+  padding-right: 40px;
+  padding-top: 14px;
+  color: rgb(83, 81, 81);
+}
+
+.text-contentfive {
+  padding-right: 40px;
+  padding-top: 14px;
+  color: rgb(83, 81, 81);
+}
